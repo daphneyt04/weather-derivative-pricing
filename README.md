@@ -6,4 +6,5 @@ Weather derivative pricing is a complex process that involves several financial 
 - Monte Carlo Simulation: Monte Carlo simulation used for estimating the price of an option.
 - Mean-reverting Ornstein-Uhlenbeck (OU) process: OU is stochastic process commonly used to model systems that tend to revert to a long-term mean over time
 
-
+# Usage
+This is currently an educational set of notebooks with scripts to run and visualize Monte-carlo simulations on datasets to see how weather derivative pricing unfolds. Current C++ implementation is in the works to compute options pricing.
